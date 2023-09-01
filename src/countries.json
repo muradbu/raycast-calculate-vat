@@ -1,0 +1,20 @@
+[
+    {
+        "countryCode": "NL",
+        "fullName": "Netherlands",
+        "flag": "🇳🇱",
+        "taxRates": [
+            21,
+            9
+        ]
+    },
+    {
+        "countryCode": "DE",
+        "fullName": "Germany",
+        "flag": "🇩🇪",
+        "taxRates": [
+            19,
+            7
+        ]
+    }
+]
